@@ -1,0 +1,68 @@
+{
+  "appName": "Hospifinance-IT — Tableau de Bord Financier DSI",
+  "colors": {
+    "primary": "#2563eb",
+    "success": "#16a34a",
+    "warning": "#d97706",
+    "danger": "#dc2626",
+    "info": "#0891b2",
+    "accent": "#7c3aed"
+  },
+  "opexColumns": {
+    "supplier": true,
+    "category": true,
+    "budgetAnnuel": true,
+    "depenseActuelle": true,
+    "engagement": true,
+    "disponible": true,
+    "utilisation": true,
+    "notes": true,
+    "actions": true,
+    "compteOrdonnateur": false,
+    "familleAnalytique": true,
+    "chargeEngagee": true,
+    "tauxRealisation": true,
+    "resteEngager": false,
+    "alerte": true
+  },
+  "capexColumns": {
+    "project": true,
+    "budgetTotal": true,
+    "depense": true,
+    "engagement": true,
+    "disponible": true,
+    "utilisation": true,
+    "status": true,
+    "period": true,
+    "notes": true,
+    "actions": true
+  },
+  "rules": {
+    "warningThreshold": 75,
+    "criticalThreshold": 90
+  },
+  "customColumns": {
+    "opex": [],
+    "capex": []
+  },
+  "customDashboards": [],
+  "capexEnveloppes": [],
+  "opexSuppliers": [
+    "ACME INFORMATIQUE",
+    "SOFTEDITION SAS",
+    "NETWORK PRO",
+    "CLOUDSERV",
+    "SECURIT IT"
+  ],
+  "opexCategories": [
+    "MAINTENANCE INFORMATIQUE",
+    "LICENCES & REDEVANCES",
+    "LIAISONS / RÉSEAUX",
+    "PRESTATIONS INFORMATIQUES",
+    "CYBERSÉCURITÉ / AUDITS",
+    "LOCATION MATÉRIEL INFORMATIQUE",
+    "ABONNEMENTS APPLICATIFS",
+    "PETIT MATÉRIEL INFORMATIQUE"
+  ],
+  "hiddenTabs": []
+}

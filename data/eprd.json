@@ -1,0 +1,10 @@
+[
+  { "compteOrdonnateur": "H61526100", "libelleCompte": "MAINTENANCE INFORMATIQUE", "familleAnalytique": "Applications", "budgetEPRD": 1200000, "annee": 2026 },
+  { "compteOrdonnateur": "H65100000", "libelleCompte": "LICENCES & REDEVANCES", "familleAnalytique": "Applications", "budgetEPRD": 450000, "annee": 2026 },
+  { "compteOrdonnateur": "H62610000", "libelleCompte": "LIAISONS / RÉSEAUX", "familleAnalytique": "Infrastructures", "budgetEPRD": 500000, "annee": 2026 },
+  { "compteOrdonnateur": "H61325100", "libelleCompte": "LOCATION MATÉRIEL INFORMATIQUE", "familleAnalytique": "Infrastructures", "budgetEPRD": 300000, "annee": 2026 },
+  { "compteOrdonnateur": "H62881100", "libelleCompte": "ABONNEMENTS APPLICATIFS", "familleAnalytique": "Applications", "budgetEPRD": 200000, "annee": 2026 },
+  { "compteOrdonnateur": "H62281000", "libelleCompte": "PRESTATIONS INFORMATIQUES", "familleAnalytique": "Prestations externes récurrentes", "budgetEPRD": 210000, "annee": 2026 },
+  { "compteOrdonnateur": "H62226000", "libelleCompte": "CYBERSÉCURITÉ / AUDITS", "familleAnalytique": "Cybersécurité", "budgetEPRD": 140000, "annee": 2026 },
+  { "compteOrdonnateur": "H60625100", "libelleCompte": "PETIT MATÉRIEL INFORMATIQUE", "familleAnalytique": "Support et services utilisateurs", "budgetEPRD": 150000, "annee": 2026 }
+]

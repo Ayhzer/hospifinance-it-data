@@ -1,0 +1,10 @@
+node_modules/
+*.log
+
+# Ce dépôt contient un JEU DE DONNÉES DE DÉMONSTRATION versionné.
+# En production, pour héberger des données réelles d'établissement, créez un
+# dépôt PRIVÉ séparé et excluez-y les extractions opérationnelles du versioning :
+# data/opex.json
+# data/capex.json
+# data/opex-orders.json
+# data/capex-orders.json

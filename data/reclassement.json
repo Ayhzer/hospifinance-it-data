@@ -1,0 +1,40 @@
+{
+  "version": "v6",
+  "updatedAt": "2026-06-26",
+  "nomenclature": [
+    { "famille": "Infrastructures", "sousCategoriesDisponibles": [
+      { "label": "Serveurs / virtualisation", "perimetre": "Run + Build", "description": "Serveurs physiques et virtuels, hyperviseurs." },
+      { "label": "Réseau / liaisons", "perimetre": "Run", "description": "Liaisons opérateurs, équipements réseau, WAN/LAN." },
+      { "label": "Stockage / sauvegarde", "perimetre": "Run + Build", "description": "Baies de stockage, sauvegarde, archivage." }
+    ]},
+    { "famille": "Applications", "sousCategoriesDisponibles": [
+      { "label": "Licences / abonnements", "perimetre": "Run", "description": "Licences logicielles et abonnements applicatifs." },
+      { "label": "Maintenance applicative", "perimetre": "Run", "description": "Contrats de maintenance et TMA." }
+    ]},
+    { "famille": "Support et services utilisateurs", "sousCategoriesDisponibles": [
+      { "label": "Poste de travail", "perimetre": "Run", "description": "Matériel et logiciels du poste de travail." }
+    ]},
+    { "famille": "Cybersécurité", "sousCategoriesDisponibles": [
+      { "label": "Sécurité / audits", "perimetre": "Run + Build", "description": "Outils de sécurité, SOC, audits et tests d'intrusion." }
+    ]},
+    { "famille": "Data et pilotage", "sousCategoriesDisponibles": [
+      { "label": "BI / décisionnel", "perimetre": "Build", "description": "Outils décisionnels et de pilotage de la donnée." }
+    ]},
+    { "famille": "Prestations externes récurrentes", "sousCategoriesDisponibles": [
+      { "label": "Infogérance / prestations", "perimetre": "Run", "description": "Prestations récurrentes externalisées." }
+    ]}
+  ],
+  "referentielFournisseurs": [],
+  "reglesMultiNature": [],
+  "reglesMosCles": [],
+  "mappingComptes": [
+    { "compte": "H60625100", "familleDefaut": "Support et services utilisateurs" },
+    { "compte": "H61325100", "familleDefaut": "Infrastructures" },
+    { "compte": "H61526100", "familleDefaut": "Applications" },
+    { "compte": "H62226000", "familleDefaut": "Cybersécurité" },
+    { "compte": "H62281000", "familleDefaut": "Prestations externes récurrentes" },
+    { "compte": "H62610000", "familleDefaut": "Infrastructures" },
+    { "compte": "H62881100", "familleDefaut": "Applications" },
+    { "compte": "H65100000", "familleDefaut": "Applications" }
+  ]
+}

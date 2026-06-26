@@ -1,0 +1,16 @@
+{
+  "name": "hospifinance-it-data",
+  "version": "1.0.0",
+  "description": "Données de l'application Hospifinance-IT (jeu de démonstration générique).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

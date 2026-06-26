@@ -1,0 +1,4 @@
+[
+  { "id": "demo-capex-1", "fournisseur": "NETWORK PRO", "project": "NETWORK PRO — MATERIEL INFORMATIQUE (IMMO)", "enveloppe": "Infrastructures", "familleAnalytique": "", "sousCategorie": "", "libelleCompte": "MATERIEL INFORMATIQUE (IMMO)", "compteOrdonnateur": "H21830000", "budgetTotal": 0, "depense": 38000, "engagement": 0, "montantRealise": 38000, "status": "Terminé", "startDate": "2026-02-20", "endDate": "", "notes": "Donnée de démonstration" },
+  { "id": "demo-capex-2", "fournisseur": "ACME INFORMATIQUE", "project": "ACME INFORMATIQUE — MATERIEL INFORMATIQUE (IMMO)", "enveloppe": "Infrastructures", "familleAnalytique": "", "sousCategorie": "", "libelleCompte": "MATERIEL INFORMATIQUE (IMMO)", "compteOrdonnateur": "H21830000", "budgetTotal": 0, "depense": 26000, "engagement": 44000, "montantRealise": 26000, "status": "En cours", "startDate": "2026-03-15", "endDate": "", "notes": "Donnée de démonstration" }
+]
