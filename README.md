@@ -6,14 +6,14 @@ Jeu de **données de démonstration** pour l'application Hospifinance-IT.
 
 | Fichier | Description |
 |---------|-------------|
-| `data/users.json` | Comptes utilisateurs de démo (identifiants, rôles, hash mots de passe) |
+| `data/users.json` | Comptes utilisateurs de démo (identifiants, rôles, mots de passe encodés en base64) |
 | `data/opex.json` | Lignes budgétaires OPEX (démo) |
 | `data/opex-orders.json` | Commandes OPEX (démo) |
 | `data/capex.json` | Projets d'investissement CAPEX (démo) |
 | `data/capex-orders.json` | Commandes CAPEX (démo) |
 | `data/eprd.json` | Budgets EPRD par compte (démo) |
 | `data/reclassement.json` | Nomenclature analytique + règles de reclassement (démo) |
-| `data/settings.json` | Paramètres applicatifs (couleurs, colonnes, préférences) |
+| `data/settings.json` | Paramètres applicatifs (couleurs, colonnes, préférences, source d'import automatique) |
 
 ## Utilisation
 
